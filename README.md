@@ -1,4 +1,5 @@
 - 👋 Hi! I’m Junior Mendonça, but some people call me Antonio Junior
+- 👨‍💻 previous GitHub account https://github.com/juniormendonca
 - 👶 born back in 1983, in Chapada dos Guimarães - MT, Brazil
 - 👨‍👧‍👦 father of two teenagers who live in UK
 - 👨‍💻 have been worked as Full Stack Developer (PHP/HTML/CSS/JS/JQuery) for 6 years, since 2012
