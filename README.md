@@ -43,3 +43,9 @@
 ★★★✩✩✩ Git  
 ★★★✩✩✩ VS Code  
 ★★★★★✩ Sublime Text  
+
+<div align="center">
+  <h2>GitHub statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=goingtosenior&count_private=true&show_icons=true&theme=react" alt="Goint to Senior" height="150" />        
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goingtosenior&&langs_count=8&layout=compact&theme=react" alt="Top languages" height="150" />
+</div>
