@@ -5,7 +5,7 @@
 - 👨‍💻 good experience on Linux basic commands
 - 👨‍🎓 currently learning Docker, Node.js, TypeScript, React and Redux
 - 👨‍🎓 next steps consist on improve some DevOps skills using Kubernetes, Ansible and Terraform (or similars)
-- 🇧🇷 advanced portuguese brazilian speaking/writing skills (sounds weird to tell! but, believe! it's important!)
-- 🇬🇧 intermediate english speaking/writing skills (enough to read/write and take conversations - I hope I can improve it even more)
+- 🌎 advanced portuguese brazilian speaking/writing skills (sounds weird to tell! but, believe! it's important!)
+- 🌎 intermediate english speaking/writing skills (enough to read/write and take conversations - I hope I can improve it even more)
 - 💬 I like to know and talk to people from all around the world, their cultures and histories 
 - 👨‍💻 looking for a job in EU/UK as Back-end or Full Stack Developer and some good new challenges and adventures
