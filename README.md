@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @goingtosenior
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-goingtosenior/goingtosenior is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi! I’m Junior Mendonça, but some people call me Antonio Junior
+- 👶 born back in 1983, in Chapada dos Guimarães - MT, Brazil
+- 👨‍👧‍👦 father of two teenagers who live in UK
+- 👨‍💻 have been worked as Full Stack Developer (PHP/HTML/CSS/JS/JQuery) for 6 years, since 2012
+- 👨‍💻 good experience on Linux basic commands
+- 👨‍🎓 currently learning Docker, Node.js, TypeScript, React and Redux
+- 👨‍🎓 next steps consist on improve some DevOps skills using Kubernetes, Ansible and Terraform (or similars)
+- 🇧🇷 advanced portuguese brazilian speaking/writing skills (sounds weird to tell! but, believe! it's important!)
+- 🇬🇧 intermediate english speaking/writing skills (enough to read/write and take conversations - I hope I can improve it even more)
+- 💬 I like to know and talk to people from all around the world, their cultures and histories 
+- 👨‍💻 looking for a job in EU/UK as Back-end or Full Stack Developer and some good new challenges and adventures
