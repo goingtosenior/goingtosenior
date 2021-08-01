@@ -18,31 +18,39 @@
 🛠 Tech Skills (based on my humble judgement)
 
 **Operating systems**  
-★★★★★✩ Windows  
-★★★★✩✩ Linux  
+<img src="https://img.icons8.com/fluency/48/000000/windows-10.png" height="16px"  /> ★★★★★✩ *Microsoft Windows*  
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" height="16px" /> ★★★★✩✩ *Linux*  
   
 **DBMS's**  
-★★★✩✩✩ SQL Databases  
-★✩✩✩✩✩ NOSQL Databases  
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" height="16px" /> ★★★✩✩✩ *Microsoft SQL Server*  
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="16px" /> ★★★✩✩✩ *MySQL*  
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" height="16px" /> ★★★★✩✩ *PostgreSQL*  
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" height="16px" /> ★✩✩✩✩✩ *MongoDB*
   
 **Back-end development**  
-★★★★★✩ PHP  
-★★✩✩✩✩ Node.js  
-★✩✩✩✩✩ TypeScript  
-★✩✩✩✩✩ React  
+<img src="https://img.icons8.com/officel/16/000000/php-logo.png" height="16px" /> ★★★★★✩ *PHP*  
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" height="16px" /> ★★✩✩✩✩ *Node.js*  
+<img src="https://img.icons8.com/color/48/000000/typescript.png" height="16px" /> ★✩✩✩✩✩ *TypeScript*  
+<img src="https://img.icons8.com/plasticine/100/000000/react.png" height="16px" /> ★✩✩✩✩✩ *React*  
   
 **Full-stack development**  
-★★★★✩✩ JavaScript  
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png" height="16px" /> ★★★★✩✩ *JavaScript*  
   
 **Front-end development**  
-★★★★★✩ HTML  
-★★★★✩✩ CSS  
-★★★★✩✩ JQuery   
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" height="16px" /> ★★★★★✩ *HTML*  
+<img src="https://img.icons8.com/color/48/000000/css3.png" height="16px" /> ★★★★✩✩ *CSS*  
+<img src="https://img.icons8.com/ios-filled/50/4a90e2/jquery.png" height="16px" /> ★★★★✩✩ *JQuery*   
   
 **Development tools**  
-★★★✩✩✩ Git  
-★★★✩✩✩ VS Code  
-★★★★★✩ Sublime Text  
+<img src="https://img.icons8.com/ios-filled/50/000000/git.png" height="16px" /> ★★✩✩✩✩ *Git*  
+<img src="https://img.icons8.com/fluency/48/000000/docker.png" height="16px" /> ★★✩✩✩✩ *Docker*  
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" height="16px" /> ★★★✩✩✩ *VS Code*  
+<img src="https://img.icons8.com/fluency/48/000000/sublime-text.png" height="16px" /> ★★★★★✩ *Sublime Text*  
+
+**Cloud computing**  
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" height="16px" /> ★✩✩✩✩✩ *Amazon Web Services*  
+<img src="https://img.icons8.com/color/48/000000/azure-1.png" height="16px" /> ★✩✩✩✩✩ *Microsoft Azure*  
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" height="16px" /> ✩✩✩✩✩✩ *Google Cloud Platform*  
 
 <div align="center">
   <h2>GitHub statistics</h2>
